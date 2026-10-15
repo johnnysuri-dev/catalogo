@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="77" y1="2" x2="556" y2="415" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F5F0E8"/>
+      <stop offset="1" stop-color="#E8E4D8"/>
+    </linearGradient>
+    <linearGradient id="phone" x1="269" y1="83" x2="378" y2="329" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#294B4D"/>
+      <stop offset="1" stop-color="#142B38"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="420" rx="30" fill="url(#bg)"/>
+  <circle cx="125" cy="107" r="69" fill="#FFF" fill-opacity=".38"/>
+  <circle cx="521" cy="319" r="104" fill="#F2B887" fill-opacity=".25"/>
+  <ellipse cx="320" cy="339" rx="132" ry="19" fill="#746953" fill-opacity=".14"/>
+  <rect x="249" y="59" width="142" height="280" rx="30" fill="#293A3E"/>
+  <rect x="258" y="69" width="124" height="259" rx="22" fill="url(#phone)"/>
+  <rect x="298" y="78" width="44" height="7" rx="3.5" fill="#193138"/>
+  <circle cx="367" cy="82" r="3" fill="#748F83"/>
+  <circle cx="320" cy="180" r="47" fill="#F3A776" fill-opacity=".92"/>
+  <circle cx="320" cy="180" r="34" fill="#FFDFC6" fill-opacity=".52"/>
+  <path d="M287 223c9-12 20-18 33-18s24 6 33 18" stroke="#B9E2C6" stroke-width="6" stroke-linecap="round"/>
+  <rect x="277" y="261" width="85" height="7" rx="3.5" fill="#D8EBDD" fill-opacity=".66"/>
+  <rect x="290" y="276" width="59" height="6" rx="3" fill="#D8EBDD" fill-opacity=".35"/>
+  <circle cx="320" cy="315" r="4" fill="#93B2A2"/>
+  <rect x="177" y="231" width="53" height="87" rx="15" transform="rotate(-14 177 231)" fill="#72A48C" fill-opacity=".85"/>
+  <circle cx="197" cy="249" r="8" fill="#DCEBDE"/>
+  <circle cx="203" cy="270" r="8" fill="#DCEBDE"/>
+  <circle cx="209" cy="291" r="8" fill="#DCEBDE"/>
+  <path d="M428 114c18 18 18 47 0 65M448 96c28 28 28 73 0 101" stroke="#D08D68" stroke-width="7" stroke-linecap="round" opacity=".62"/>
+</svg>

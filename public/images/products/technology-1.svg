@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="42" y1="14" x2="579" y2="415" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EEF5ED"/>
+      <stop offset="1" stop-color="#D9E9DD"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="213" y1="102" x2="435" y2="289" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#245F51"/>
+      <stop offset="1" stop-color="#122D39"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="420" rx="30" fill="url(#bg)"/>
+  <circle cx="510" cy="93" r="73" fill="#FFF" fill-opacity=".34"/>
+  <circle cx="132" cy="340" r="102" fill="#FFF" fill-opacity=".27"/>
+  <ellipse cx="323" cy="325" rx="213" ry="24" fill="#557D67" fill-opacity=".14"/>
+  <rect x="176" y="88" width="288" height="204" rx="18" fill="#243B42"/>
+  <rect x="189" y="101" width="262" height="177" rx="10" fill="url(#screen)"/>
+  <rect x="209" y="123" width="81" height="8" rx="4" fill="#B8E6C8" fill-opacity=".9"/>
+  <rect x="209" y="141" width="132" height="6" rx="3" fill="#B8E6C8" fill-opacity=".43"/>
+  <rect x="209" y="157" width="109" height="6" rx="3" fill="#B8E6C8" fill-opacity=".3"/>
+  <rect x="209" y="183" width="72" height="50" rx="8" fill="#86BEA1" fill-opacity=".52"/>
+  <rect x="292" y="183" width="139" height="8" rx="4" fill="#D3ECDD" fill-opacity=".72"/>
+  <rect x="292" y="199" width="112" height="6" rx="3" fill="#D3ECDD" fill-opacity=".42"/>
+  <rect x="292" y="213" width="126" height="6" rx="3" fill="#D3ECDD" fill-opacity=".32"/>
+  <rect x="292" y="227" width="83" height="6" rx="3" fill="#D3ECDD" fill-opacity=".32"/>
+  <path d="M150 292h340l48 17c9 3 7 16-3 16H105c-10 0-12-13-3-16l48-17Z" fill="#718983"/>
+  <path d="M239 299h162l-10 9H249l-10-9Z" fill="#DDE8E1"/>
+  <rect x="282" y="307" width="76" height="3" rx="1.5" fill="#9BB0A7"/>
+  <rect x="467" y="173" width="35" height="61" rx="10" transform="rotate(8 467 173)" fill="#EF956A"/>
+  <circle cx="487" cy="229" r="3" fill="#FFE7D8"/>
+</svg>
